@@ -8,6 +8,8 @@ public class TeluskospringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TeluskospringbootApplication.class, args);
+
+		System.out.println("Hello spring boot");
 	}
 
 }
